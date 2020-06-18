@@ -2,9 +2,9 @@ nav{
     background-color: gray;
     border: 1px black solid;
     font-weight: bold;
-    position: fixed !important;
+    /*position: fixed !important;
     top: 0;
-    width: 100%;
+    width: 100%;*/
     }
 h2{
     padding: 15px;
@@ -26,6 +26,6 @@ section>div>div{
       text-align: center;
       border: 1px solid black;
   }
-  body{
+  /*body{
       padding-top: 58px;
-  }
+  }*/
